@@ -1,10 +1,13 @@
 # Example Site settings
 
-#header_pages:
-#  - index.md
-#  - about.md
+header_pages:
+  - index.md
+  - about.md
+  - wo.md
 
 #footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
+
+baseurl: /mhl-abschlusskonzert
 
 plugins:
   - jekyll-seo-tag
