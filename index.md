@@ -9,7 +9,6 @@ permalink: /
 ## Jarowoje Pole (2025-2026)
 *für Bassklarinette, Gusli, Schlagwerk und Elektronik*
 
-
 |:-|-|-|-|-:|
 |Clara Wigger||||*Erweiterte Bassklarinette*|
 |Maxi Treller||||*Präparierte Gusli*|
@@ -97,7 +96,7 @@ permalink: /
 *für Cyberware und ML-driven Spatialisation*
 
 |:-|-|-|-|-:|
-|Ilia Viazov||||*Cyborg*|
+|Ilia Viazov||||*Unmensch*|
 
 <br>
 
