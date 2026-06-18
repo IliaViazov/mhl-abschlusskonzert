@@ -6,7 +6,7 @@ permalink: /
 
 # **Ilia Viazov. Abschlusskonzert.**
 
-## Jarowoje Pole (2025-2026)
+## Jarowoje Pole / Яровое Поле (2025-2026)
 *für Bassklarinette, Gusli, Schlagwerk und Elektronik*
 
 |:-|-|-|-|-:|
@@ -17,13 +17,30 @@ permalink: /
 
 <br>
 
-<details>
+<details markdown="1">
   <summary>Programmtext</summary>
-  This content is hidden by default and revealed when clicked.
+  
+  <br>
+  
+  *То, что я никогда не увижу.* 
+  *Etwas, was ich nie wieder sehen werde.*
+
+  The piece was written during the Russian-Ukrainian war, at a time when my connection to relatives still living in Russia, near the Ukrainian border, was fragile at best. From the start of the war, phone and internet signals were unreliable, but there came a period of over a month when I received nothing from them at all — while the city was under missile and drone attacks. Simply put: I didn't know whether my family was still alive. Had they died, I might never have found out. This fear had lived in me since I chose to emigrate, but in that moment it became real.
+
+  Jarowoje Pole means a spring field planted with a particular variety of wheat — one that begins growing in spring and is harvested by late summer. My home region is among the largest wheat producers in Russia and Europe; before the war, Germany imported our wheat for bread. The wheat fields define the landscape of the region, and their seasonal flowering is woven into its culture. For me they are a symbol of where I grew up: playing in the tall grass with friends, chasing reptiles and insects, weaving wheat into hats and bracelets — in other words, a good childhood.
+  The sound world draws on two sources: environmental sounds of Voronezh, and allusions to militaristic music. The dialectic between these materials is grounded in their acoustic and spectral similarities. Across the duration of the piece I trace audible connections between sonic qualities that are conventionally treated as belonging to separate expressive domains. This sonic research functions as a kind of self-therapy — an attempt to redefine the self and re-establish contact with something irreversibly, or at least potentially irreversibly, lost.
+
+  The metaphorical transition between the natural and the unnatural — producing a hybrid sonic world — is realized at the physical level of the instruments themselves, defining new bodies of extended and interconnected musical entities. The bass clarinet is modified with a garden hose that nearly doubles its air chamber, altering pitch, timbre, and intonation, expanding multiphonic possibilities, and introducing a more synthetic, unnatural dimension to the instrument's vocabulary. The gusli — a Russian type of zither — is prepared with magnetic tape across its strings and various objects placed inside the body. It is played with a range of tools, among them Ferrous: a custom electric actuator consisting of a rotating metal disk with six magnets, which excites vibrations in metallic objects such as strings and plates. This extends the gusli's traditional vocabulary into territory otherwise unavailable to it — artificial drones, scratches, harsh impacts, and more.
+
+  The concept of transition also shapes the ensemble as a whole. Electronics are incorporated into the resonance bodies of the percussion instruments, which serve as a shared resonance chamber for the entire ensemble. The sounds of the other instruments are projected in real time into the percussion set via surface transducers — the percussion body physically vibrates with the ensemble's sound, coloring and filtering it through its own acoustic properties before it re-enters the space. This transforms the percussionist's role: rather than a player of discrete attacks, they become a manipulator of a continuously resonating collective sound body, shaping the ensemble's texture through the physical behavior of their instrument. The percussion signal is then projected through cone transducers placed beside the other two instruments, feeding back into their immediate acoustic environment. This creates an electronic feedback loop with acoustic emission — the instruments are not only responding to each other through the performers, but through the signal network itself, which continuously modifies the overall sonic character of the ensemble.
+
+  The score is realized as a graphic parametric score with mixed notation. Some sounds are notated conventionally, but these are expanded with graphic visual designations that extend written musical expressivity. The graphics mediate between strictly defined structural elements — form, sequence, musical material — and the fluid, gestural qualities of musical expression.
+
 </details>
 
 <br>
-<br>
+
+---
 
 ## Marbles (2025)
 *für Bassklarinette*
@@ -33,13 +50,14 @@ permalink: /
 
 <br>
 
-<details>
+<details markdown="1">
   <summary>Programmtext</summary>
   This content is hidden by default and revealed when clicked.
 </details>
 
 <br>
-<br>
+
+---
 
 ## _spect(e)r(um) (2024)
 *für Feedback-Bassblockflöte, Machinelles Lernen und Video*
@@ -49,13 +67,27 @@ permalink: /
 
 <br>
 
-<details>
+<details markdown="1">
   <summary>Programmtext</summary>
-  This content is hidden by default and revealed when clicked.
+
+  <br>
+
+  *I went into the darkness and saw it.*
+  *It was leading me deeper, lighting the way.* 
+  
+  *It sang to me,* 
+               *and I had been trying to respond.* 
+
+  *Our tones began to infiltrate each other —* 
+                                            *the division disappeared.*
+
+  *It became hard to tell us apart.*
+
 </details>
 
 <br>
-<br>
+
+---
 
 ## sonic.snapshot (2026)
 *Live-Coding, Machinelles Lernen, IKO*
@@ -65,34 +97,71 @@ permalink: /
 
 <br>
 
-<details>
+<details markdown="1">
   <summary>Programmtext</summary>
-  This content is hidden by default and revealed when clicked.
+  
+  <br>
+  
+  The work investigates human–machine improvisation as a situated dialogue between embodied performance, memory, and spatial sound. Central to the project is the idea of a sonic self-image: a reflective and dynamically evolving representation of the performer constructed through sound, space, and temporal transformation. Rather than treating improvisation as an ephemeral act, the work reconsiders recorded material as a generative field in which past gestures remain active and open to reinterpretation.
+
+  A recorded improvisation on a Serge Modular Synthesizer forms the initial material base — an instrument I have played long enough that it carries its own tradition, its own accumulated idiom. Rather than functioning as archival documentation, this recording is reorganized into a structured sonic repository, where transient musical gestures are reconfigured into a navigable compositional terrain through machine learning and FluCoMa. This transformation enables a shift in perspective: improvisation becomes a process of re-engagement with sonic memory, where previously fluid material acquires new relational and temporal properties.
+
+  The performance practice emerging from this system oscillates between immediacy and reflection. On one hand, analog synthesis provides a tactile and unstable sonic environment shaped by intuition and physical interaction. On the other, restructured sonic material introduces a layer of mediated memory that informs real-time decision-making. This interplay creates a dynamic tension between spontaneity and pre-reflective sonic knowledge.
+
+  Spatialisation is the means by which this memory becomes orchestratable. Moving through the corpus during performance — returning to earlier gestures, projecting forward, or cutting across the material entirely — is not only a temporal act but a spatial one. Through higher-order ambisonics, encoded and decoded via Matthias Kronlachner's tools within the tusa environment, sound is distributed across a three-dimensional field, allowing past and potential material to be placed at different distances, angles, and densities. The analogy is historical orchestration: the performer does not play through memory sequentially, but arranges it in space — deciding what stands close, what recedes, what arrives from an unexpected direction.
+
+  The technical infrastructure is built around tusa — a custom Bash framework running inside tmux that binds Tidal Cycles, SuperCollider, and Haskell into a single unified performance surface. FluCoMa handles the corpus analysis and KD-tree construction, allowing nearest-neighbour queries against the recorded material to be triggered directly from Tidal patterns. The choice of algorithm is compositional: KNN retrieval means that navigation through the corpus follows sonic proximity rather than chronological order, so the historical and the associative coexist as equally available modes of traversal. Spatialisation is handled through Matthias Kronlachner's ambisonics encoder and decoder running inside SuperCollider, receiving beamforming parameters directly from Tidal via SuperDirt. The result is a system where a single line of live code can simultaneously select material from memory, determine its spatial position, and set it in motion — collapsing composition, performance, and recall into one act.
+
+  The work conceptualizes sound as a mutable and spatially distributed presence, continuously shaped through interaction between performer, memory, and environment. It proposes improvisation as an expanded field of listening and action, where identity and perception are continuously negotiated through sonic transformation.
 </details>
 
 <br>
-<br>
+
+---
 
 ## Die Fraktur der Frakturen (2025)
 *Audiovisuele Installation und Performance für Tablet-Quartett*
 
 |:-|-|-|-|-:|
 |Grigorii Osipov||||*Tablet*|
-|Goeun Kim||||*Tablet*|
-|Kiloh Lee||||*Tablet*|
+|Diego Alejandro Morales Castillo||||*Tablet*|
+|Paulina Andrzejak||||*Tablet*|
 |Ilia Viazov||||*Tablet*|
 
 <br>
 
-<details>
+<details markdown="1">
   <summary>Programmtext</summary>
-  This content is hidden by default and revealed when clicked.
+  <br>
+
+  *Last time* 
+          *I saw this face, it was scattered around.*
+          *I couldn't recognise it.*
+
+  *Last time* 
+          *I heard this voice,*
+          *I couldn't understand any word of it.*
+
+  *Everything that I heard was just moaning.*
+
+  *The memories are split into shards,*
+  ‎ 
+          *They can't make* 
+                    *any sense by themselves,*
+          *They can't make* 
+                    *any sense together either,*
+          *They give only* 
+                    *a resemblance of memory,* 
+                                            *which was gone long ago.*
+
+  *The rest between them is the speechless void.*
 </details>
 
 <br>
-<br>
 
-## Nelud (2026)
+---
+
+## Nelud / Нелюдь (2026)
 *für Cyberware und ML-driven Spatialisation*
 
 |:-|-|-|-|-:|
@@ -100,9 +169,8 @@ permalink: /
 
 <br>
 
-<details>
+<details markdown="1">
   <summary>Programmtext</summary>
   This content is hidden by default and revealed when clicked.
 </details>
 
-<br>

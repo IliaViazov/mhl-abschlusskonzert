@@ -1,0 +1,4 @@
+- Die Frakture. Aesthetical and Compositional text
+- Nelud, litterally everything
+- _specterum. Personal shit about feedback recorder - cybernetic relationships with the instrument. Embidement of electronics etc
+- 
