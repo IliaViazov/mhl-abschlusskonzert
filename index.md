@@ -25,9 +25,11 @@ permalink: /
   *То, что я никогда не увижу.* 
   *Etwas, was ich nie wieder sehen werde.*
 
+  <br>
+
   The piece was written during the Russian-Ukrainian war, at a time when my connection to relatives still living in Russia, near the Ukrainian border, was fragile at best. From the start of the war, phone and internet signals were unreliable, but there came a period of over a month when I received nothing from them at all — while the city was under missile and drone attacks. Simply put: I didn't know whether my family was still alive. Had they died, I might never have found out. This fear had lived in me since I chose to emigrate, but in that moment it became real.
 
-  Jarowoje Pole means a spring field planted with a particular variety of wheat — one that begins growing in spring and is harvested by late summer. My home region is among the largest wheat producers in Russia and Europe; before the war, Germany imported our wheat for bread. The wheat fields define the landscape of the region, and their seasonal flowering is woven into its culture. For me they are a symbol of where I grew up: playing in the tall grass with friends, chasing reptiles and insects, weaving wheat into hats and bracelets — in other words, a good childhood.
+  ***Jarowoje Pole*** means a spring field planted with a particular variety of wheat — one that begins growing in spring and is harvested by late summer. My home region is among the largest wheat producers in Russia and Europe; before the war, Germany imported our wheat for bread. The wheat fields define the landscape of the region, and their seasonal flowering is woven into its culture. For me they are a symbol of where I grew up: playing in the tall grass with friends, chasing reptiles and insects, weaving wheat into hats and bracelets — in other words, a good childhood.
   The sound world draws on two sources: environmental sounds of Voronezh, and allusions to militaristic music. The dialectic between these materials is grounded in their acoustic and spectral similarities. Across the duration of the piece I trace audible connections between sonic qualities that are conventionally treated as belonging to separate expressive domains. This sonic research functions as a kind of self-therapy — an attempt to redefine the self and re-establish contact with something irreversibly, or at least potentially irreversibly, lost.
 
   The metaphorical transition between the natural and the unnatural — producing a hybrid sonic world — is realized at the physical level of the instruments themselves, defining new bodies of extended and interconnected musical entities. The bass clarinet is modified with a garden hose that nearly doubles its air chamber, altering pitch, timbre, and intonation, expanding multiphonic possibilities, and introducing a more synthetic, unnatural dimension to the instrument's vocabulary. The gusli — a Russian type of zither — is prepared with magnetic tape across its strings and various objects placed inside the body. It is played with a range of tools, among them Ferrous: a custom electric actuator consisting of a rotating metal disk with six magnets, which excites vibrations in metallic objects such as strings and plates. This extends the gusli's traditional vocabulary into territory otherwise unavailable to it — artificial drones, scratches, harsh impacts, and more.
@@ -52,7 +54,14 @@ permalink: /
 
 <details markdown="1">
   <summary>Programmtext</summary>
-  This content is hidden by default and revealed when clicked.
+  <br>
+
+  ***Marbles*** is a solo piece for bass clarinet, written alongside the saxophone quintet ***guts*** during a period in which questions of fragmentation, emigration, and disintegrating self-image were becoming central to my compositional thinking. The piece belongs to a broader constellation of works — alongside ***Jarowoje Pole***, external operator, sonic.snapshot, and later die fraktur der frakturen — concerned with memory, loss, and the psychological consequences of displacement. Where ***Jarowoje Pole*** approaches this territory through the sonic image of a landscape that may no longer exist, ***Marbles*** turns inward, toward the experience of a self that has begun to lose its coherence — the same psychological process of depersonalization and memory attrition that ***external operator*** and ***sonic.snapshot*** address through machine listening and memory externalization. It was also the piece in which the concept of the acoustic field first crystallized for me as a compositional concept — an organizing principle that has since become central to my practice, and which would later form the structural foundation of ***Unity of a Sonic Presence through Shared Acoustical Fields*** for the symphonic orchestra.
+
+  The title is literal and metaphorical at once. Marbles as toys — small, smooth, scattering — and marbles as musical gestures thrown onto the page, rolling into their positions rather than placed. The score is realized as a mixed notation with graphic extensions, in the same approach as in the mentioned above pieces: some material is precisely notated, while other elements are given as graphic designations that define quality and direction without fixing the result. The sonic material is organized by acoustic and gestural similarity rather than by instrumental convention — gestures find their neighbors through shared physical and spectral qualities. A throat sound and an underblown tone are the same breath at different points of resistance; singing into the instrument and activating the vocal cords without it are variations of the same impulse reaching toward pitch. Clicks of different origin — tongue, key, breath — form a family defined by their transient character rather than their mechanism. The improvisatory character of the performance emerges from navigating this acoustic field: the performer moves through regions of similarity, and the transitions between them carry the structural weight of the piece. The gestures themselves — accumulating toward the climax in slaps and dense multiphonics — carry the same quality as the title: discrete, ungovernable, resistant to synthesis into a larger whole.
+
+  The sonic world of the piece moves between clicks, multiphonics, and slaps, with the climax drawing these materials toward their most extreme expressions. The bass clarinet is unmodified — the instrument itself, without extension or preparation — and the vocabulary is drawn entirely from the acoustic and extended possibilities of the instrument in its plain form. Occasional moments of voice entering the instrument's body blur the boundary between breath as wind and breath as speech, without fully committing to either.
+
 </details>
 
 <br>
@@ -82,6 +91,18 @@ permalink: /
                                             *the division disappeared.*
 
   *It became hard to tell us apart.*
+
+  <br>
+
+  What began as a debut project at the Musikhochschule Lübeck has grown into a sustained practice that has shaped my identity as both a performing composer and a wind player. The origin of this work is partly biographical: six years ago, a lung condition forced me to stop playing the bassoon — my primary instrument — on medical advice. For several years I did not perform at all. Gradually, I returned through the recorder, an instrument with a lower physical demand but a remarkably complex acoustic character. The feedback recorder became the interface through which I reconciled my identities as instrumentalist and composer, offering a mode of performance in which I could simultaneously feel, control, and enter into dialogue with sound.
+
+  The instrument consists of a bass recorder extended with a transducer mounted at the bell, a microphone positioned at the whistle, an electronic processor handling real-time transformation of the signal before it is fed back into the instrument's body, and a chain of guitar pedals. The recorder's conical bore — as opposed to the cylindrical profile of most recorders — produces a pronounced spectral non-linearity, which manifests as a tendency for nearly every fingered pitch to slide into multiphonic territory. The feedback loop stabilizes and expands these multiphonics dynamically, while simultaneously generating hybrid electroacoustic sounds that exist at the boundary between the acoustic and the electronic.
+
+  The physical presence of the transducer introduces a haptic dimension to the performance. Vibrations transmitted directly into the air chamber become perceptible through the tone holes, allowing the performer to sense the nodal structure of active multiphonics through touch. This creates a situation in which the instrument itself appears to guide the performer — its acoustic response to prior gestures shaping the available continuation. In this sense the instrument functions as a partially reflexive system: its behavior is conditioned by accumulated sound, and it feeds that conditioning back into the performer's decision-making in real time.
+
+  This relationship exceeds the conventional model of instrument as tool. Through sustained practice with the feedback recorder, the boundary between performer and instrument becomes increasingly difficult to locate — not as a metaphor, but as a functional reality. The feedback loop creates a cybernetic circuit in which the instrument's output continuously conditions the performer's input, and vice versa, collapsing the distinction between cause and response. The body learns to read the instrument's vibrations as proprioceptive information; the instrument, in turn, is shaped by the accumulated memory of the body that plays it. What emerges is less a relationship of control than one of symbiosis — a mutual dependency in which signals, responses, and gestures flow in both directions through a shared interface until the question of where the performer ends and the instrument begins loses its meaning. The technology is not worn or operated but inhabited, and the performance is the ongoing negotiation of that cohabitation.
+
+  ***_spect(e)r(um)*** is a performance developed within this practice, dedicated to the process of discovering the instrument and the expressive territory it opens. The accompanying video is generated through feature analysis of the live playing, constructing a visual counterpoint to the sound that simultaneously functions as an adaptive graphic score — a notation that emerges from the performance itself rather than preceding it.
 
 </details>
 
@@ -119,50 +140,8 @@ permalink: /
 
 ---
 
-## Die Fraktur der Frakturen (2025)
-*Audiovisuele Installation und Performance für Tablet-Quartett*
-
-|:-|-|-|-|-:|
-|Grigorii Osipov||||*Tablet*|
-|Diego Alejandro Morales Castillo||||*Tablet*|
-|Paulina Andrzejak||||*Tablet*|
-|Ilia Viazov||||*Tablet*|
-
-<br>
-
-<details markdown="1">
-  <summary>Programmtext</summary>
-  <br>
-
-  *Last time* 
-          *I saw this face, it was scattered around.*
-          *I couldn't recognise it.*
-
-  *Last time* 
-          *I heard this voice,*
-          *I couldn't understand any word of it.*
-
-  *Everything that I heard was just moaning.*
-
-  *The memories are split into shards,*
-  ‎ 
-          *They can't make* 
-                    *any sense by themselves,*
-          *They can't make* 
-                    *any sense together either,*
-          *They give only* 
-                    *a resemblance of memory,* 
-                                            *which was gone long ago.*
-
-  *The rest between them is the speechless void.*
-</details>
-
-<br>
-
----
-
 ## Nelud / Нелюдь (2026)
-*für Cyberware und ML-driven Spatialisation*
+*für Cyberware und ML-gesteuerte Spatialisation*
 
 |:-|-|-|-|-:|
 |Ilia Viazov||||*Unmensch*|
@@ -174,3 +153,71 @@ permalink: /
   This content is hidden by default and revealed when clicked.
 </details>
 
+<br>
+
+---
+
+## Die Fraktur der Frakturen (2025)
+*Audiovisuele Installation und Performance für Tablet-Quartett*
+
+|:-|-|-|-|-:|
+|Grigorii Osipov||||*Tablet*|
+|Diego Alejandro Morales Castillo||||*Tablet*|
+|Paulina Andrzejak||||*Tablet*|
+|Goeun Kim||||*Tablet*|
+
+<br>
+
+<details markdown="1">
+  <summary>Programmtext</summary>
+  <br>
+
+  *Last time* 
+            *I saw this face,* 
+                              *it was scattered around.*
+            *I couldn't recognise it.*
+
+  *Last time*
+          *I heard this voice,*
+          *I couldn't understand* 
+                                *any word of it.*
+                          
+  <br>
+
+  *Everything that I heard was just* 
+                                    *moaning.*
+
+  <br>
+
+  *The memories are split into s  h   a   r   d   s,*
+
+  *They can't make* 
+                  *any sense by themselves,*
+  *They can't make*
+                  *any sense together either,*
+  
+  <br>
+
+  *They give only a resemblance of memory,* 
+                                          *which was gone long ago.*
+                                          
+  <br>
+
+  *The rest between them is the* 
+                                *speechless void.*
+
+  <br>
+
+  ***Die fraktur der frakturen*** was commissioned by platformB at Musik der Jahrhunderte, Stuttgart, in 2025, as part of a call dedicated to projects addressing forced emigration. The piece is personal. It was written during a period of intensive integration into German society — a process that, for me, ran parallel to the gradual dissolution of older connections, both personal and professional. Memory began to fracture. I could no longer recognize myself in the person I had been, nor fully in the person I was becoming. The depersonalization that accompanied this period was one of the most disorienting experiences of my life. Conceptually, the work connects to a broader thread running through my practice — alongside external operator and sonic.snapshot — concerned with memory externalization, language attrition, and their psychological consequences: the experience of losing any coherent image of the self, and finding in its place only strange, irreconcilable fragments.
+
+  The work is simultaneously an installation, an instrument, and a score. Its sound engine is built on Cross-FM synthesis with self-referential feedback loops — a system in which accumulated sonic and musical features continuously adjust the output, producing a compositional development that unfolds even in the absence of interaction, organized along principles loosely analogous to recurrent neural networks, but small and fine-tuned enough to generate coherent musical material rather than noise. The timbral target was deliberately acoustic: a sound world evoking a mixture of voices and brass instruments, organic and unstable at the edges.
+
+  In this performance, the installation is realized as a quartet. Four performers navigate the sonic landscape through tablet interfaces, their touch gestures controlling spatial position, timbral density, and the degree of feedback saturation within the system. The four-channel audio and reactive video projection are not separate layers but a single surface — the visual field is driven by the same processes that generate the sound, so that what the performers play is simultaneously heard and seen, distributed across the room. The interface is designed so that orientation within the sound qualities themselves guides interaction: there is no score in the conventional sense, but the sonic landscape has its own logic, and the performers learn to read it.
+
+  The installation remains open to the audience after the performance. As a self-developing sonic sculpture, it continues to evolve through interaction — each visitor finding their own way of moving through the fractures, without the promise that they will resolve. You may also access the installation over this [link](http://iliaviazov.github.io/die-fraktur-der-frakturen/), or via QR-Code.
+
+  <div class="g2-wrap">
+	<img src="{{ site.baseurl }}/die-fraktur.png" alt="g2 image" class="g2-image g2-image--small" />
+  </div>
+
+</details>
