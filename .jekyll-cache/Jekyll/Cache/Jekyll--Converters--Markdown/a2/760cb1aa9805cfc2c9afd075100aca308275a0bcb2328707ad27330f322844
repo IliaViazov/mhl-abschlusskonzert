@@ -1,52 +1,5 @@
-<!DOCTYPE html>
-<html lang="en"><meta http-equiv="Content-Security-Policy" content="default-src 'none';
-connect-src 'self';
-base-uri 'self';
-form-action 'none';
-img-src 'self' https: data:;
-style-src 'self' https://fonts.googleapis.com;
-font-src 'self' https://fonts.gstatic.com data:;
-media-src 'self';
-object-src 'none';
-child-src 'self';
-script-src 'self';" />
-<meta http-equiv="X-XSS-Protection"  content="1;mode=block" always>
-<meta http-equiv="Referrer-Policy" content="no-referrer, strict-origin-when-cross-origin"><head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-  <meta name="color-scheme" content="dark light">
-  <title>/bio</title><!-- Begin Jekyll SEO tag v2.9.0 -->
-<meta name="generator" content="Jekyll v4.2.2" />
-<meta property="og:title" content="/bio" />
-<meta property="og:locale" content="en_US" />
-<link rel="canonical" href="http://localhost:4000/mhl-abschlusskonzert/bio" />
-<meta property="og:url" content="http://localhost:4000/mhl-abschlusskonzert/bio" />
-<meta property="og:type" content="website" />
-<meta name="twitter:card" content="summary" />
-<meta name="twitter:title" content="/bio" />
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebPage","headline":"/bio","url":"http://localhost:4000/mhl-abschlusskonzert/bio"}</script>
-<!-- End Jekyll SEO tag -->
-<link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro:400,700" rel="stylesheet"><link rel="stylesheet" type="text/css" href="/mhl-abschlusskonzert/assets/main-dark.css"></head>
-<body>
-    <div class="container"><header>
-  <div class="menu">
-    <ul><li>
-          <a href="/mhl-abschlusskonzert/">/konzertprogramm</a>
-        </li><li>
-          <a href="/mhl-abschlusskonzert/bio" aria-current="page">/bio</a>
-        </li><li>
-          <a href="/mhl-abschlusskonzert/wo/">/wo</a>
-        </li></ul>
-  </div>
-</header>
-<main>
-      <p><img src="/mhl-abschlusskonzert/IMG_9945.jpg" alt="Ilia Viazov" class="inline-photo" /></p>
-
-<p><strong>Ilia Viazov</strong> (1999*) is a composer, sound artist, and performer whose work moves across acoustic composition, electroacoustic performance, live-coding, installation, and DIY instrument-building. His practice is rooted in experimentation — exploring the boundaries between composition and performance, and the re-emergence of the instrument as both interface and compositional material. He works with acoustic instruments, self-built objects, embedded hardware, and machine listening, often within systems where the boundary between score, tool, and performer becomes unstable.</p>
+I"�<p><img src="/mhl-abschlusskonzert/IMG_9945.jpg" alt="Ilia Viazov" class="inline-photo" />
+<strong>Ilia Viazov</strong> (1999*) is a composer, sound artist, and performer whose work moves across acoustic composition, electroacoustic performance, live-coding, installation, and DIY instrument-building. His practice is rooted in experimentation — exploring the boundaries between composition and performance, and the re-emergence of the instrument as both interface and compositional material. He works with acoustic instruments, self-built objects, embedded hardware, and machine listening, often within systems where the boundary between score, tool, and performer becomes unstable.</p>
 
 <p>Viazov began his musical formation as a bassoon player at the Rostropovich Music College in Voronezh, Russia, before continuing at the Gnesin Russian Academy of Music in Moscow, and then turning to composition at the Tchaikovsky Moscow State Conservatory, where he studied with Vladimir Tarnopolsky and Yuri Kasparov. He continued his studies at the Musikhochschule Lübeck, where he is completing a Bachelor in Composition with a focus on Electronic Music and Sound Arts, and works as a student assistant in the Hybrid AI Department at the University of Lübeck, where he explores the creative and conceptual implications of machine listening.</p>
 
@@ -106,11 +59,4 @@ script-src 'self';" />
     </tr>
   </tbody>
 </table>
-
-  <br />  <!-- add line break if there is any content -->
-    </main><footer>
-  
-</footer>
-</div>
-  </body>
-</html>
+:ET

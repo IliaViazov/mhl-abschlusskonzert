@@ -5,7 +5,9 @@ layout: home
 permalink: /bio
 ---
 
-**Ilia Viazov** (1999*) is a composer, sound artist, and performer whose work moves across acoustic composition, electroacoustic performance, live-coding, installation, and DIY instrument-building. <img src="{{ site.baseurl }}/IMG_9945.jpg" alt="Ilia Viazov" class="inline-photo" /> His practice is rooted in experimentation — exploring the boundaries between composition and performance, and the re-emergence of the instrument as both interface and compositional material. He works with acoustic instruments, self-built objects, embedded hardware, and machine listening, often within systems where the boundary between score, tool, and performer becomes unstable.
+<img src="{{ site.baseurl }}/IMG_9945.jpg" alt="Ilia Viazov" class="inline-photo" />
+
+**Ilia Viazov** (1999*) is a composer, sound artist, and performer whose work moves across acoustic composition, electroacoustic performance, live-coding, installation, and DIY instrument-building. His practice is rooted in experimentation — exploring the boundaries between composition and performance, and the re-emergence of the instrument as both interface and compositional material. He works with acoustic instruments, self-built objects, embedded hardware, and machine listening, often within systems where the boundary between score, tool, and performer becomes unstable.
 
 Viazov began his musical formation as a bassoon player at the Rostropovich Music College in Voronezh, Russia, before continuing at the Gnesin Russian Academy of Music in Moscow, and then turning to composition at the Tchaikovsky Moscow State Conservatory, where he studied with Vladimir Tarnopolsky and Yuri Kasparov. He continued his studies at the Musikhochschule Lübeck, where he is completing a Bachelor in Composition with a focus on Electronic Music and Sound Arts, and works as a student assistant in the Hybrid AI Department at the University of Lübeck, where he explores the creative and conceptual implications of machine listening.
 
