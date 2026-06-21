@@ -23,7 +23,7 @@ His output spans acoustic composition, electroacoustic performance, physical sou
 |||
 | 03/2024 10/2023 | **Musikhochschule Lübeck**, Deutschland. Komposition (Kontaktstudium). **Komposition** — Katharina Rosenberger. **SACMT** — Nicola Hein, Louis Goldford |
 |||
-| 01/2023 10/2022 | **Microtonal University**, USA. Erweitertes Online-Studium. **Kursleitung** — Johnny Reinhard, Witold Maciak |
+| 01/2023 10/2022 | **Microtonal University**, USA. Online-Weiterbildung. **Kursleitung** — Johnny Reinhard, Witold Maciak |
 |||
 | 10/2022 09/2020 | **Tschaikowski-Konservatorium Moskau**, Russland. Komposition – Bachelor (nicht abgeschlossen). **Komposition** — Vladimir Tarnopolsky, Yuri Kasparov. **Elektroakustik** — Nikolay Khrust, Alexey Nadzharov |
 |||
