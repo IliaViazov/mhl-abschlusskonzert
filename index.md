@@ -6,7 +6,7 @@ permalink: /
 
 # **Ilia Viazov. Abschlusskonzert.**
 
-## Jarowoje Pole / Яровое Поле (2025-2026)
+## [Jarowoje Pole / Яровое Поле (2025-2026)]()
 *für Bassklarinette, Gusli, Schlagwerk und Elektronik*
 
 |:-|-|-|-|-:|
@@ -44,7 +44,7 @@ permalink: /
 
 ---
 
-## Marbles (2025)
+## [Marbles (2025)](https://iliaviazov.bandcamp.com/track/marbles)
 *für Bassklarinette*
 
 |:-|-|-|-|-:|
@@ -68,7 +68,7 @@ permalink: /
 
 ---
 
-## _spect(e)r(um) (2024)
+## [_spect(e)r(um) (2024)](https://youtu.be/1LtMkUAUPd4)
 *für Feedback-Bassblockflöte, Machinelles Lernen und Video*
 
 |:-|-|-|-|-:|
@@ -110,7 +110,7 @@ permalink: /
 
 ---
 
-## sonic.snapshot (2026)
+## [sonic.snapshot (2026)](https://youtu.be/IstGTBeUmUg)
 *Live-Coding, Machinelles Lernen, IKO*
 
 |:-|-|-|-|-:|
@@ -140,7 +140,7 @@ permalink: /
 
 ---
 
-## Nelud / Нелюдь (2026)
+## Nelud / Нелюдь (2026), UA
 *für Cyberware und ML-gesteuerte Spatialisation*
 
 |:-|-|-|-|-:|
@@ -157,7 +157,7 @@ permalink: /
 
 ---
 
-## Die Fraktur der Frakturen (2025)
+## [Die Fraktur der Frakturen (2025), UA Performance-Version](https://iliaviazov.github.io/die-fraktur-der-frakturen/)
 *Audiovisuele Installation und Performance für Tablet-Quartett*
 
 |:-|-|-|-|-:|

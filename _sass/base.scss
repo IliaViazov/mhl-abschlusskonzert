@@ -144,3 +144,23 @@ pre { background-color: var(--background-color);  border: none;  padding: 0;  ma
 .g2-image { max-width: 100%; width: auto; height: auto; display: inline-block; }
 .g2-image--small { max-width: 300px; }
 
+/* inline photo styling for bio text */
+img.inline-photo {
+  float: left;
+  width: 240px;
+  max-width: 100%;
+  height: auto;
+  margin: 0 1.5rem 1rem 0;
+  border-radius: 10px;
+  object-fit: cover;
+}
+
+@media (max-width: 640px) {
+  img.inline-photo {
+    float: none;
+    display: block;
+    margin: 0 auto 1rem;
+    width: 240px;
+  }
+}
+
