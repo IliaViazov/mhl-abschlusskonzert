@@ -15,10 +15,14 @@ He has presented works at Ars Electronica (Linz), Darmstädter Ferienkurse, Freq
 
 His output spans acoustic composition, electroacoustic performance, physical sound sculpture, DIY instrument-building, and interactive installation. Alongside his artistic practice, Viazov is active in festival organization in the Kiel/Lübeck region and leads workshops in live coding and microcontroller-based instrument design. His work is informed by post-compositional thinking — a concern less with fixed scores than with designed systems, emergent process, and the situated body of the performer within technologically extended environments.
 
+<br>
+
 # Academic path
 
 <br>
 
+| aktuell 10/2025 | **Universität zu Lübeck**, Deutschland. Gaststudium, Institut für Softwaretechnik, Hybride KI. **Logische Programmierung** — Diedrich Wolter. **ML und Data Science** — Gesina Schwalbe |
+|||
 | aktuell 04/2024 | **Musikhochschule Lübeck**, Deutschland. Bachelor Komposition, Profil Sound Arts and Creative Music Technology (Abschluss 07/2026). **Komposition** — Milica Djordjevic, Marisol Jiménez, Nicola Hein. **SACMT** — Nicola Hein, Kris Kuldkepp, Louis Goldford |
 |||
 | 03/2024 10/2023 | **Musikhochschule Lübeck**, Deutschland. Komposition (Kontaktstudium). **Komposition** — Katharina Rosenberger. **SACMT** — Nicola Hein, Louis Goldford |
@@ -30,3 +34,28 @@ His output spans acoustic composition, electroacoustic performance, physical sou
 | 08/2020 09/2016 | **Gnessin-Musikakademie**, Moskau, Russland. Fagott Fachausbildung (abgeschlossen). **Fagott** — Stanislav Katenin |
 |||
 | 08/2016 09/2015 | **Rostropovich Musikschule**, Woronesch, Russland. Fagott Fachausbildung. **Fagott** — Nikolai Babushkin|
+
+<br>
+
+# Selection of Festivals, Projects, Scholarships
+
+<br>
+
+|09/2026|| The Global Composition Conference. Artistic and scientific contributions|
+|06/2026|| ZKM next.generation Festival. Performance "sonic.snapshot" for live-coding with machine learning and IKO|
+|06/2026|| +Rain Film Festival. Interdisciplinary performance "external operator"|
+|05/2026|| ICMC 2026. Artistic presentation "Tidal Unit for Sonic Activities"|
+|05/2026|| Frequenz Festival 2026. Technical direction and performances|
+|02/2026|| RCHTN25 Berlin. Improset|
+|02/2026|| METRIC Symposium. Organisational Team|
+|11/2025|| PlatformB Call for Projects. Web-installation "Die Fraktur der Frakturen|
+|10/2025|| Deutschlandstipendium|
+|10/2025|| JUMU Open. Performance "guts" for saxophone quintet with electronics
+|09/2025|| Ars Electronica 2025. Performance "external operator"|
+|08/2025|| tech.festival at the Uni zu Lübeck. Organisation and teaching|
+|07/2025|| Darmstädter Ferienkurse. Performance "104-11B" for mixed electronics, flutes, percussion|
+|10/2025|| Deutschlandstipendium|
+|01/2025|| Open Space Possehlpreis. 1st prize|
+|11/2024|| Nordische Filmtage. Performance _spect(e)r(um)|
+|05/2024|| "Hard to Talk!" Festival in PAS Berlin. Improset|
+|04/2024|| DAAD Stibet I|

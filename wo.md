@@ -1,7 +1,7 @@
 ---
-title: /wo
+title: /where
 layout: home
-permalink: /wo/
+permalink: /where/
 ---
 
 # Mo, 06.07.2026, 19:30, Notenbank

@@ -1,50 +1,4 @@
-<!DOCTYPE html>
-<html lang="en"><meta http-equiv="Content-Security-Policy" content="default-src 'none';
-connect-src 'self';
-base-uri 'self';
-form-action 'none';
-img-src 'self' https: data:;
-style-src 'self' https://fonts.googleapis.com;
-font-src 'self' https://fonts.gstatic.com data:;
-media-src 'self';
-object-src 'none';
-child-src 'self';
-script-src 'self';" />
-<meta http-equiv="X-XSS-Protection"  content="1;mode=block" always>
-<meta http-equiv="Referrer-Policy" content="no-referrer, strict-origin-when-cross-origin"><head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-  <meta name="color-scheme" content="dark light">
-  <title>/bio</title><!-- Begin Jekyll SEO tag v2.9.0 -->
-<meta name="generator" content="Jekyll v4.2.2" />
-<meta property="og:title" content="/bio" />
-<meta property="og:locale" content="en_US" />
-<link rel="canonical" href="http://localhost:4000/mhl-abschlusskonzert/bio" />
-<meta property="og:url" content="http://localhost:4000/mhl-abschlusskonzert/bio" />
-<meta property="og:type" content="website" />
-<meta name="twitter:card" content="summary" />
-<meta name="twitter:title" content="/bio" />
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebPage","headline":"/bio","url":"http://localhost:4000/mhl-abschlusskonzert/bio"}</script>
-<!-- End Jekyll SEO tag -->
-<link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro:400,700" rel="stylesheet"><link rel="stylesheet" type="text/css" href="/mhl-abschlusskonzert/assets/main-dark.css"></head>
-<body>
-    <div class="container"><header>
-  <div class="menu">
-    <ul><li>
-          <a href="/mhl-abschlusskonzert/">/konzertprogramm</a>
-        </li><li>
-          <a href="/mhl-abschlusskonzert/bio" aria-current="page">/bio</a>
-        </li><li>
-          <a href="/mhl-abschlusskonzert/where/">/where</a>
-        </li></ul>
-  </div>
-</header>
-<main>
-      <p><img src="/mhl-abschlusskonzert/IMG_9945.jpg" alt="Ilia Viazov" class="inline-photo" /></p>
+I"�<p><img src="/mhl-abschlusskonzert/IMG_9945.jpg" alt="Ilia Viazov" class="inline-photo" /></p>
 
 <p><strong>Ilia Viazov</strong> (1999*) is a composer, sound artist, and performer whose work moves across acoustic composition, electroacoustic performance, live-coding, installation, and DIY instrument-building. His practice is rooted in experimentation — exploring the boundaries between composition and performance, and the re-emergence of the instrument as both interface and compositional material. He works with acoustic instruments, self-built objects, embedded hardware, and machine listening, often within systems where the boundary between score, tool, and performer becomes unstable.</p>
 
@@ -53,8 +7,6 @@ script-src 'self';" />
 <p>He has presented works at Ars Electronica (Linz), Darmstädter Ferienkurse, Frequenz Festival (Kiel), +RAIN Festival (Barcelona), and ZKM Karlsruhe, and has participated in festivals including Maerzmusik, Kontakte Festival, Selbstgebaute Musik Festival, and others. His work has received recognition through the Possehlpreis Open Space (1st Prize), the DAAD scholarship, and the Lübecker Kompositionswettbewerb.</p>
 
 <p>His output spans acoustic composition, electroacoustic performance, physical sound sculpture, DIY instrument-building, and interactive installation. Alongside his artistic practice, Viazov is active in festival organization in the Kiel/Lübeck region and leads workshops in live coding and microcontroller-based instrument design. His work is informed by post-compositional thinking — a concern less with fixed scores than with designed systems, emergent process, and the situated body of the performer within technologically extended environments.</p>
-
-<p><br /></p>
 
 <h1 id="academic-path">Academic path</h1>
 
@@ -117,8 +69,6 @@ script-src 'self';" />
   </tbody>
 </table>
 
-<p><br /></p>
-
 <h1 id="selection-of-festivals-projects-scholarships">Selection of Festivals, Projects, Scholarships</h1>
 
 <p><br /></p>
@@ -127,101 +77,68 @@ script-src 'self';" />
   <tbody>
     <tr>
       <td>09/2026</td>
-      <td> </td>
       <td>The Global Composition Conference. Artistic and scientific contributions</td>
     </tr>
     <tr>
       <td>06/2026</td>
-      <td> </td>
       <td>ZKM next.generation Festival. Performance “sonic.snapshot” for live-coding with machine learning and IKO</td>
     </tr>
     <tr>
       <td>06/2026</td>
-      <td> </td>
       <td>+Rain Film Festival. Interdisciplinary performance “external operator”</td>
     </tr>
     <tr>
       <td>05/2026</td>
-      <td> </td>
       <td>ICMC 2026. Artistic presentation “Tidal Unit for Sonic Activities”</td>
     </tr>
     <tr>
       <td>05/2026</td>
-      <td> </td>
       <td>Frequenz Festival 2026. Technical direction and performances</td>
     </tr>
     <tr>
       <td>02/2026</td>
-      <td> </td>
       <td>RCHTN25 Berlin. Improset</td>
     </tr>
     <tr>
       <td>02/2026</td>
-      <td> </td>
       <td>METRIC Symposium. Organisational Team</td>
     </tr>
     <tr>
       <td>11/2025</td>
-      <td> </td>
       <td>PlatformB Call for Projects. Web-installation “Die Fraktur der Frakturen</td>
     </tr>
     <tr>
       <td>10/2025</td>
-      <td> </td>
       <td>Deutschlandstipendium</td>
     </tr>
     <tr>
       <td>10/2025</td>
-      <td> </td>
       <td>JUMU Open. Performance “guts” for saxophone quintet with electronics</td>
     </tr>
     <tr>
       <td>09/2025</td>
-      <td> </td>
       <td>Ars Electronica 2025. Performance “external operator”</td>
     </tr>
     <tr>
-      <td>08/2025</td>
-      <td> </td>
-      <td>tech.festival at the Uni zu Lübeck. Organisation and teaching</td>
-    </tr>
-    <tr>
       <td>07/2025</td>
-      <td> </td>
-      <td>Darmstädter Ferienkurse. Performance “104-11B” for mixed electronics, flutes, percussion</td>
+      <td>Darmstädter Ferienkurse. Performance “104-11B”</td>
     </tr>
     <tr>
       <td>10/2025</td>
-      <td> </td>
       <td>Deutschlandstipendium</td>
     </tr>
     <tr>
-      <td>01/2025</td>
-      <td> </td>
-      <td>Open Space Possehlpreis. 1st prize</td>
-    </tr>
-    <tr>
       <td>11/2024</td>
-      <td> </td>
       <td>Nordische Filmtage. Performance _spect(e)r(um)</td>
     </tr>
     <tr>
       <td>05/2024</td>
-      <td> </td>
       <td>“Hard to Talk!” Festival in PAS Berlin. Improset</td>
     </tr>
     <tr>
       <td>04/2024</td>
-      <td> </td>
       <td>DAAD Stibet I</td>
     </tr>
   </tbody>
 </table>
-
-  <br />  <!-- add line break if there is any content -->
-    </main><footer>
-  
-</footer>
-</div>
-  </body>
-</html>
+:ET
