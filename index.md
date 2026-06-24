@@ -164,7 +164,7 @@ permalink: /
 |Grigorii Osipov||||*Tablet*|
 |Diego Alejandro Morales Castillo||||*Tablet*|
 |Paulina Andrzejak||||*Tablet*|
-|Goeun Kim||||*Tablet*|
+|Kiloh Lee||||*Tablet*|
 
 <br>
 
