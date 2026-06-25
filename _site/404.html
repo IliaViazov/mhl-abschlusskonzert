@@ -9,7 +9,7 @@ font-src 'self' https://fonts.gstatic.com data:;
 media-src 'self';
 object-src 'none';
 child-src 'self';
-script-src 'self';" />
+script-src 'self'; script-src 'self' 'unsafe-inline';" />
 <meta http-equiv="X-XSS-Protection"  content="1;mode=block" always>
 <meta http-equiv="Referrer-Policy" content="no-referrer, strict-origin-when-cross-origin"><head>
   <meta charset="utf-8">
@@ -39,8 +39,11 @@ script-src 'self';" />
         </li><li>
           <a href="/mhl-abschlusskonzert/bio">/bio</a>
         </li><li>
-          <a href="/mhl-abschlusskonzert/where/">/where</a>
-        </li></ul>
+          <a href="/mhl-abschlusskonzert/wo/">/wo</a>
+        </li><li>
+        <button class="lang-toggle" type="button">DE</button>
+      </li>
+    </ul>
   </div>
 </header>
 <main>
@@ -50,6 +53,7 @@ script-src 'self';" />
     </main><footer>
   
 </footer>
-</div>
+<script src="/mhl-abschlusskonzert/assets/js/lang-toggle.js"></script>
+    </div>
   </body>
 </html>
