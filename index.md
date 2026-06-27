@@ -6,6 +6,75 @@ permalink: /
 
 # **Ilia Viazov. Abschlusskonzert.**
 
+## [sonic.snapshot (2026)](https://youtu.be/IstGTBeUmUg)
+<div class="lang-en">
+<div markdown="1">
+
+*for Live-Coding, Machine Learning, IKO*
+
+|:-|-|-|-|-:|
+|Ilia Viazov||||*Human*|
+
+</div>
+</div>
+
+<div class="lang-de">
+<div markdown="1">
+
+*für Live-Coding, Machinelles Lernen, IKO*
+
+|:-|-|-|-|-:|
+|Ilia Viazov||||*Mensch*|
+
+</div>
+</div>
+
+<br>
+
+<div class="lang-en">
+<details markdown="1">
+  <summary>Programmtext</summary>
+  
+  <br>
+  
+  The work investigates human–machine improvisation as a situated dialogue between embodied performance, memory, and spatial sound. Central to the project is the idea of a sonic self-image: a reflective and dynamically evolving representation of the performer constructed through sound, space, and temporal transformation. Rather than treating improvisation as an ephemeral act, the work reconsiders recorded material as a generative field in which past gestures remain active and open to reinterpretation.
+
+  A recorded improvisation on a Serge Modular Synthesizer forms the initial material base — an instrument I have played long enough that it carries its own tradition, its own accumulated idiom. Rather than functioning as archival documentation, this recording is reorganized into a structured sonic repository, where transient musical gestures are reconfigured into a navigable compositional terrain through machine learning and FluCoMa. This transformation enables a shift in perspective: improvisation becomes a process of re-engagement with sonic memory, where previously fluid material acquires new relational and temporal properties.
+
+  The performance practice emerging from this system oscillates between immediacy and reflection. On one hand, analog synthesis provides a tactile and unstable sonic environment shaped by intuition and physical interaction. On the other, restructured sonic material introduces a layer of mediated memory that informs real-time decision-making. This interplay creates a dynamic tension between spontaneity and pre-reflective sonic knowledge.
+
+  Spatialisation is the means by which this memory becomes orchestratable. Moving through the corpus during performance — returning to earlier gestures, projecting forward, or cutting across the material entirely — is not only a temporal act but a spatial one. Through higher-order ambisonics, encoded and decoded via Matthias Kronlachner's tools within the tusa environment, sound is distributed across a three-dimensional field, allowing past and potential material to be placed at different distances, angles, and densities. The analogy is historical orchestration: the performer does not play through memory sequentially, but arranges it in space — deciding what stands close, what recedes, what arrives from an unexpected direction.
+
+  The technical infrastructure is built around tusa — a custom Bash framework running inside tmux that binds Tidal Cycles, SuperCollider, and Haskell into a single unified performance surface. FluCoMa handles the corpus analysis and KD-tree construction, allowing nearest-neighbour queries against the recorded material to be triggered directly from Tidal patterns. The choice of algorithm is compositional: KNN retrieval means that navigation through the corpus follows sonic proximity rather than chronological order, so the historical and the associative coexist as equally available modes of traversal. Spatialisation is handled through Matthias Kronlachner's ambisonics encoder and decoder running inside SuperCollider, receiving beamforming parameters directly from Tidal via SuperDirt. The result is a system where a single line of live code can simultaneously select material from memory, determine its spatial position, and set it in motion — collapsing composition, performance, and recall into one act.
+
+  The work conceptualizes sound as a mutable and spatially distributed presence, continuously shaped through interaction between performer, memory, and environment. It proposes improvisation as an expanded field of listening and action, where identity and perception are continuously negotiated through sonic transformation.
+</details>
+</div>
+
+<div class="lang-de">
+<details markdown="1">
+  <summary>Programmtext</summary>
+  
+  <br>
+  
+  Die Arbeit untersucht die Improvisation zwischen Mensch und Maschine als situierten Dialog zwischen verkörperter Aufführung, Erinnerung und räumlichem Klang. Zentral für das Projekt ist die Idee eines klanglichen Selbstbildes: eine reflexive und dynamisch sich entwickelnde Darstellung der ausführenden Person, die durch Klang, Raum und zeitliche Transformation konstruiert wird. Anstatt Improvisation als flüchtigen Akt zu behandeln, überdenkt die Arbeit aufgezeichnetes Material als generatives Feld, in dem vergangene Gesten aktiv und offen für Neuinterpretation bleiben.
+
+  Eine aufgezeichnete Improvisation auf einem Serge Modular Synthesizer bildet die anfängliche Materialbasis — ein Instrument, das ich lange genug gespielt habe, um seine eigene Tradition, sein eigenes akkumuliertes Idiom zu entwickeln. Anstatt als archivalische Dokumentation zu fungieren, wird diese Aufnahme in ein strukturiertes Klangrepositorium reorganisiert, in dem transiente musikalische Gesten durch maschinelles Lernen und FluCoMa in ein navigierbares kompositorisches Terrain umgestaltet werden. Diese Transformation ermöglicht einen Perspektivwechsel: Improvisation wird zu einem Prozess der Wiederannäherung an das klangliche Gedächtnis, in dem zuvor fließendes Material neue relationale und zeitliche Eigenschaften gewinnt.
+
+  Die aus diesem System hervorgehende Aufführungspraxis oszilliert zwischen Unmittelbarkeit und Reflexion. Einerseits bietet analoge Synthese ein taktiles und instabiles Klangumfeld, das durch Intuition und physische Interaktion geprägt ist. Andererseits führt restrukturiertes Klangmaterial eine Schicht vermittelter Erinnerung ein, die die Entscheidungsfindung in Echtzeit informiert. Dieses Wechselspiel schafft eine dynamische Spannung zwischen Spontaneität und vor-reflexivem Klangwissen.
+
+  Raumklang ist das Mittel, durch das diese Erinnerung orchestrierbar wird. Das Durchqueren des Korpus während der Aufführung — zur Rückkehr zu früheren Gesten, zum Vorausgreifen oder zum Querschneiden des Materials — ist nicht nur ein zeitlicher, sondern auch ein räumlicher Akt. Durch Higher-Order Ambisonics, kodiert und dekodiert über Matthias Kronlachners Werkzeuge innerhalb der *tusa*-Umgebung, wird Klang in einem dreidimensionalen Feld verteilt, sodass vergangenes und potentielles Material an unterschiedlichen Entfernungen, Winkeln und Dichten platziert werden kann. Die Analogie ist die historische Orchestrierung: Die ausführende Person spielt nicht sequenziell durch die Erinnerung, sondern ordnet sie im Raum an — entscheidet, was nahe steht, was zurückweicht, was aus einer unerwarteten Richtung eintrifft.
+
+  Die technische Infrastruktur basiert auf *tusa* — einem maßgefertigten Bash-Framework, das innerhalb von tmux läuft und Tidal Cycles, SuperCollider und Haskell zu einer einheitlichen Aufführungsoberfläche verbindet. FluCoMa übernimmt die Korpusanalyse und den KD-Tree-Aufbau und ermöglicht es, Nächste-Nachbar-Abfragen gegen das aufgezeichnete Material direkt aus Tidal-Mustern heraus auszulösen. Die Wahl des Algorithmus ist kompositorisch: KNN-Retrieval bedeutet, dass die Navigation durch den Korpus der klanglichen Nähe folgt, nicht der chronologischen Reihenfolge — das Historische und das Assoziative koexistieren als gleichermaßen verfügbare Traversierungsmodi. Die Raumklangbearbeitung erfolgt durch Matthias Kronlachners Ambisonics-Encoder und -Decoder innerhalb von SuperCollider, der Beamforming-Parameter direkt von Tidal über SuperDirt empfängt. Das Ergebnis ist ein System, in dem eine einzige Zeile Live-Code gleichzeitig Material aus der Erinnerung auswählen, seine räumliche Position bestimmen und es in Bewegung setzen kann — Komposition, Aufführung und Erinnerung in einem einzigen Akt kollabierend.
+
+  Die Arbeit konzeptualisiert Klang als eine veränderliche und räumlich verteilte Präsenz, die kontinuierlich durch die Interaktion zwischen ausführender Person, Erinnerung und Umgebung geformt wird. Sie schlägt Improvisation als ein erweitertes Feld des Zuhörens und Handelns vor, in dem Identität und Wahrnehmung kontinuierlich durch klangliche Transformation ausgehandelt werden.
+</details>
+</div>
+
+<br>
+
+---
+
 ## [Jarowoje Pole / Яровое Поле (2025-2026)]()
 
 <div class="lang-en">
@@ -242,70 +311,9 @@ Diese Beziehung übersteigt das konventionelle Modell des Instruments als Werkze
 
 ---
 
-## [sonic.snapshot (2026)](https://youtu.be/IstGTBeUmUg)
-<div class="lang-en">
-<div markdown="1">
-
-*for Live-Coding, Machine Learning, IKO*
-
-|:-|-|-|-|-:|
-|Ilia Viazov||||*Human*|
-
-</div>
-</div>
-
-<div class="lang-de">
-<div markdown="1">
-
-*für Live-Coding, Machinelles Lernen, IKO*
-
-|:-|-|-|-|-:|
-|Ilia Viazov||||*Mensch*|
-
-</div>
-</div>
-
 <br>
 
-<div class="lang-en">
-<details markdown="1">
-  <summary>Programmtext</summary>
-  
-  <br>
-  
-  The work investigates human–machine improvisation as a situated dialogue between embodied performance, memory, and spatial sound. Central to the project is the idea of a sonic self-image: a reflective and dynamically evolving representation of the performer constructed through sound, space, and temporal transformation. Rather than treating improvisation as an ephemeral act, the work reconsiders recorded material as a generative field in which past gestures remain active and open to reinterpretation.
-
-  A recorded improvisation on a Serge Modular Synthesizer forms the initial material base — an instrument I have played long enough that it carries its own tradition, its own accumulated idiom. Rather than functioning as archival documentation, this recording is reorganized into a structured sonic repository, where transient musical gestures are reconfigured into a navigable compositional terrain through machine learning and FluCoMa. This transformation enables a shift in perspective: improvisation becomes a process of re-engagement with sonic memory, where previously fluid material acquires new relational and temporal properties.
-
-  The performance practice emerging from this system oscillates between immediacy and reflection. On one hand, analog synthesis provides a tactile and unstable sonic environment shaped by intuition and physical interaction. On the other, restructured sonic material introduces a layer of mediated memory that informs real-time decision-making. This interplay creates a dynamic tension between spontaneity and pre-reflective sonic knowledge.
-
-  Spatialisation is the means by which this memory becomes orchestratable. Moving through the corpus during performance — returning to earlier gestures, projecting forward, or cutting across the material entirely — is not only a temporal act but a spatial one. Through higher-order ambisonics, encoded and decoded via Matthias Kronlachner's tools within the tusa environment, sound is distributed across a three-dimensional field, allowing past and potential material to be placed at different distances, angles, and densities. The analogy is historical orchestration: the performer does not play through memory sequentially, but arranges it in space — deciding what stands close, what recedes, what arrives from an unexpected direction.
-
-  The technical infrastructure is built around tusa — a custom Bash framework running inside tmux that binds Tidal Cycles, SuperCollider, and Haskell into a single unified performance surface. FluCoMa handles the corpus analysis and KD-tree construction, allowing nearest-neighbour queries against the recorded material to be triggered directly from Tidal patterns. The choice of algorithm is compositional: KNN retrieval means that navigation through the corpus follows sonic proximity rather than chronological order, so the historical and the associative coexist as equally available modes of traversal. Spatialisation is handled through Matthias Kronlachner's ambisonics encoder and decoder running inside SuperCollider, receiving beamforming parameters directly from Tidal via SuperDirt. The result is a system where a single line of live code can simultaneously select material from memory, determine its spatial position, and set it in motion — collapsing composition, performance, and recall into one act.
-
-  The work conceptualizes sound as a mutable and spatially distributed presence, continuously shaped through interaction between performer, memory, and environment. It proposes improvisation as an expanded field of listening and action, where identity and perception are continuously negotiated through sonic transformation.
-</details>
-</div>
-
-<div class="lang-de">
-<details markdown="1">
-  <summary>Programmtext</summary>
-  
-  <br>
-  
-  Die Arbeit untersucht die Improvisation zwischen Mensch und Maschine als situierten Dialog zwischen verkörperter Aufführung, Erinnerung und räumlichem Klang. Zentral für das Projekt ist die Idee eines klanglichen Selbstbildes: eine reflexive und dynamisch sich entwickelnde Darstellung der ausführenden Person, die durch Klang, Raum und zeitliche Transformation konstruiert wird. Anstatt Improvisation als flüchtigen Akt zu behandeln, überdenkt die Arbeit aufgezeichnetes Material als generatives Feld, in dem vergangene Gesten aktiv und offen für Neuinterpretation bleiben.
-
-Eine aufgezeichnete Improvisation auf einem Serge Modular Synthesizer bildet die anfängliche Materialbasis — ein Instrument, das ich lange genug gespielt habe, um seine eigene Tradition, sein eigenes akkumuliertes Idiom zu entwickeln. Anstatt als archivalische Dokumentation zu fungieren, wird diese Aufnahme in ein strukturiertes Klangrepositorium reorganisiert, in dem transiente musikalische Gesten durch maschinelles Lernen und FluCoMa in ein navigierbares kompositorisches Terrain umgestaltet werden. Diese Transformation ermöglicht einen Perspektivwechsel: Improvisation wird zu einem Prozess der Wiederannäherung an das klangliche Gedächtnis, in dem zuvor fließendes Material neue relationale und zeitliche Eigenschaften gewinnt.
-
-Die aus diesem System hervorgehende Aufführungspraxis oszilliert zwischen Unmittelbarkeit und Reflexion. Einerseits bietet analoge Synthese ein taktiles und instabiles Klangumfeld, das durch Intuition und physische Interaktion geprägt ist. Andererseits führt restrukturiertes Klangmaterial eine Schicht vermittelter Erinnerung ein, die die Entscheidungsfindung in Echtzeit informiert. Dieses Wechselspiel schafft eine dynamische Spannung zwischen Spontaneität und vor-reflexivem Klangwissen.
-
-Raumklang ist das Mittel, durch das diese Erinnerung orchestrierbar wird. Das Durchqueren des Korpus während der Aufführung — zur Rückkehr zu früheren Gesten, zum Vorausgreifen oder zum Querschneiden des Materials — ist nicht nur ein zeitlicher, sondern auch ein räumlicher Akt. Durch Higher-Order Ambisonics, kodiert und dekodiert über Matthias Kronlachners Werkzeuge innerhalb der *tusa*-Umgebung, wird Klang in einem dreidimensionalen Feld verteilt, sodass vergangenes und potentielles Material an unterschiedlichen Entfernungen, Winkeln und Dichten platziert werden kann. Die Analogie ist die historische Orchestrierung: Die ausführende Person spielt nicht sequenziell durch die Erinnerung, sondern ordnet sie im Raum an — entscheidet, was nahe steht, was zurückweicht, was aus einer unerwarteten Richtung eintrifft.
-
-Die technische Infrastruktur basiert auf *tusa* — einem maßgefertigten Bash-Framework, das innerhalb von tmux läuft und Tidal Cycles, SuperCollider und Haskell zu einer einheitlichen Aufführungsoberfläche verbindet. FluCoMa übernimmt die Korpusanalyse und den KD-Tree-Aufbau und ermöglicht es, Nächste-Nachbar-Abfragen gegen das aufgezeichnete Material direkt aus Tidal-Mustern heraus auszulösen. Die Wahl des Algorithmus ist kompositorisch: KNN-Retrieval bedeutet, dass die Navigation durch den Korpus der klanglichen Nähe folgt, nicht der chronologischen Reihenfolge — das Historische und das Assoziative koexistieren als gleichermaßen verfügbare Traversierungsmodi. Die Raumklangbearbeitung erfolgt durch Matthias Kronlachners Ambisonics-Encoder und -Decoder innerhalb von SuperCollider, der Beamforming-Parameter direkt von Tidal über SuperDirt empfängt. Das Ergebnis ist ein System, in dem eine einzige Zeile Live-Code gleichzeitig Material aus der Erinnerung auswählen, seine räumliche Position bestimmen und es in Bewegung setzen kann — Komposition, Aufführung und Erinnerung in einem einzigen Akt kollabierend.
-
-Die Arbeit konzeptualisiert Klang als eine veränderliche und räumlich verteilte Präsenz, die kontinuierlich durch die Interaktion zwischen ausführender Person, Erinnerung und Umgebung geformt wird. Sie schlägt Improvisation als ein erweitertes Feld des Zuhörens und Handelns vor, in dem Identität und Wahrnehmung kontinuierlich durch klangliche Transformation ausgehandelt werden.
-</details>
-</div>
+***Pause 10'-15'***
 
 <br>
 
@@ -340,14 +348,40 @@ Die Arbeit konzeptualisiert Klang als eine veränderliche und räumlich verteilt
 <div class="lang-en">
 <details markdown="1">
   <summary>Programmtext</summary>
-  This content is hidden by default and revealed when clicked.
+  <br>
+
+  ***Nelud*** — the word resists clean translation. In Russian it functions as a substantive: an *unhuman*, a *non-person*. It can name a cruel and merciless individual, someone placed outside the moral community of people. It can also name the *undead* — a form of life that resembles the human but is not. What ties these meanings together is the negation at the root: something that should be human, and isn't.
+
+  What the word does not distinguish is who stands on which side of that negation. The one who considers certain people subhuman and treats them as lesser is a Nelud. The emigrant who is considered subhuman is also a Nelud. The language offers no separation between the one who excludes and the one who is excluded — both are named by the same otherness, from opposite directions. This collapse is not accidental. It is where the piece begins.
+
+  It also begins in something more immediate: the daily experience of being treated as a lesser presence. Not always through open hostility — more often through the quiet, accumulated weight of being the wrong kind of person in the wrong place. A Russian in Germany during a war that Russia started — suspected by default, tolerated at best. The experience is rarely dramatic; it accumulates in small adjustments, in the texture of ordinary interactions. It is, in different forms, what almost any unwanted emigrant knows.
+
+  The performance is played on *Cyberware* — an instrument worn as a vest, consisting of ten guitar pedals and a matrix mixer that routes their signals into one another, generating feedback loops that the body carries and modulates. The instrument is not held or operated; it is worn, inhabited, fused with the body that moves inside it. In Donna Haraway's cybernetic manifesto, the cyborg is a figure that refuses the clean boundary between organism and machine, between self and network. In Russian etymology, the cyborg is a Nelud — a form of life that has moved beyond the human without ceasing to carry it.
+
+  The cybernetic body extends further into the room through spatialisation. SuperCollider performs continuous real-time feature analysis of the audio signal from the vest — tracking novelty, and separating harmonic and percussive components through HPSS. These features drive the spatial distribution of sound across a higher-order ambisonic field, encoded and decoded through the Ambisonic Toolkit. The harmonic and percussive layers are treated as distinct spatial presences, moving independently through the room according to the qualities of the signal itself. The compositional decisions are embedded in the system — in the way the analysis is designed to respond, in the thresholds that trigger movement, in the logic that determines how the room breathes with the body inside it.
+
+  This is the position the piece inhabits and accepts. The feedback loops running through the vest are the same loops running through any body entangled with technology — the difference is that here they are made audible, worn on the surface, performed. The dissolution is painful. But it points somewhere: toward a way of existing no longer organized around the pure body, the national subject, the border between the person and the non-person.
+  
 </details>
 </div>
 
 <div class="lang-de">
 <details markdown="1">
   <summary>Programmtext</summary>
-  This content is hidden by default and revealed when clicked.
+  <br>
+
+  ***Nelud*** — das Wort entzieht sich einer sauberen Übersetzung. Im Russischen fungiert es als Substantiv: ein *Unmensch*, eine *Nicht-Person*. Es kann einen grausamen und erbarmungslosen Menschen bezeichnen, jemanden, der außerhalb der moralischen Gemeinschaft der Menschen gestellt wird. Es kann auch den *Untoten* bezeichnen — eine Lebensform, die dem Menschen ähnelt, aber keiner ist. Was diese Bedeutungen verbindet, ist die Verneinung an der Wurzel: etwas, das ein Mensch sein sollte, und es nicht ist.
+
+  Was das Wort nicht unterscheidet, ist, wer auf welcher Seite dieser Verneinung steht. Derjenige, der bestimmte Menschen für unmenschlich hält und sie als minderwertig behandelt, ist ein Unmensch. Der Emigrant, der als unmenschlich gilt, ist ebenfalls ein Unmensch. Die Sprache bietet keine Trennung zwischen demjenigen, der ausschließt, und demjenigen, der ausgeschlossen wird — beide werden durch dieselbe Andersartigkeit benannt, aus entgegengesetzten Richtungen. Dieser Zusammenbruch ist kein Zufall. Hier beginnt das Stück.
+
+  Es beginnt auch in etwas Unmittelbarerem: der alltäglichen Erfahrung, als mindere Präsenz behandelt zu werden. Nicht immer durch offene Feindseligkeit — häufiger durch das stille, akkumulierte Gewicht, die falsche Art von Mensch am falschen Ort zu sein. Ein Russe in Deutschland während eines Krieges, den Russland begonnen hat — per Voreinstellung verdächtig, bestenfalls toleriert. Die Erfahrung ist selten dramatisch; sie häuft sich in kleinen Anpassungen an, in der Textur alltäglicher Begegnungen. Es ist, in verschiedenen Formen, das, was fast jeder unerwünschte Emigrant kennt.
+
+  Die Performance wird auf *Cyberware* gespielt — einem Instrument, das als Weste getragen wird und aus zehn Gitarreneffektgeräten und einem Matrixmischer besteht, der ihre Signale ineinander leitet und Feedback-Schleifen erzeugt, die der Körper trägt und moduliert. Das Instrument wird nicht gehalten oder bedient; es wird getragen, bewohnt, mit dem Körper verschmolzen, der sich darin bewegt. In Donna Haraways kybernetischem Manifest ist der Cyborg eine Figur, die die saubere Grenze zwischen Organismus und Maschine, zwischen Selbst und Netzwerk verweigert. In der russischen Etymologie ist der Cyborg ein Unmensch — eine Lebensform, die über das Menschliche hinausgegangen ist, ohne aufgehört zu haben, es zu tragen.
+
+  Der kybernetische Körper erstreckt sich durch die Raumklanggestaltung weiter in den Raum. SuperCollider führt eine kontinuierliche Echtzeit-Merkmalsanalyse des Audiosignals der Weste durch — verfolgt Neuheit und trennt harmonische und perkussive Komponenten durch HPSS. Diese Merkmale steuern die räumliche Verteilung des Klangs über ein Higher-Order Ambisonics-Feld, kodiert und dekodiert durch das Ambisonic Toolkit. Die harmonischen und perkussiven Schichten werden als eigenständige räumliche Präsenzen behandelt, die sich unabhängig voneinander durch den Raum bewegen, entsprechend den Qualitäten des Signals selbst. Die kompositorischen Entscheidungen sind im System eingebettet — in der Art, wie die Analyse so gestaltet ist, dass sie reagiert, in den Schwellenwerten, die Bewegung auslösen, in der Logik, die bestimmt, wie der Raum mit dem Körper in seinem Inneren atmet.
+
+  Dies ist die Position, die das Stück einnimmt und akzeptiert. Die Feedback-Schleifen, die durch die Weste laufen, sind dieselben Schleifen, die durch jeden mit Technologie verflochtenen Körper laufen — der Unterschied ist, dass sie hier hörbar gemacht, auf der Oberfläche getragen, aufgeführt werden. Die Auflösung ist schmerzhaft. Aber sie weist irgendwohin: auf eine Weise des Existierens, die nicht länger um den reinen Körper, das nationale Subjekt, die Grenze zwischen Person und Nicht-Person organisiert ist.
+
 </details>
 </div>
 

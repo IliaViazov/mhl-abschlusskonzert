@@ -1,53 +1,4 @@
-<!DOCTYPE html>
-<html lang="en"><meta http-equiv="Content-Security-Policy" content="default-src 'none';
-connect-src 'self';
-base-uri 'self';
-form-action 'none';
-img-src 'self' https: data:;
-style-src 'self' https://fonts.googleapis.com;
-font-src 'self' https://fonts.gstatic.com data:;
-media-src 'self';
-object-src 'none';
-child-src 'self';
-script-src 'self'; script-src 'self' 'unsafe-inline';" />
-<meta http-equiv="X-XSS-Protection"  content="1;mode=block" always>
-<meta http-equiv="Referrer-Policy" content="no-referrer, strict-origin-when-cross-origin"><head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-  <meta name="color-scheme" content="dark light">
-  <title>/konzertprogramm</title><!-- Begin Jekyll SEO tag v2.9.0 -->
-<meta name="generator" content="Jekyll v4.2.2" />
-<meta property="og:title" content="/konzertprogramm" />
-<meta property="og:locale" content="en_US" />
-<link rel="canonical" href="http://localhost:4000/mhl-abschlusskonzert/" />
-<meta property="og:url" content="http://localhost:4000/mhl-abschlusskonzert/" />
-<meta property="og:type" content="website" />
-<meta name="twitter:card" content="summary" />
-<meta name="twitter:title" content="/konzertprogramm" />
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","headline":"/konzertprogramm","url":"http://localhost:4000/mhl-abschlusskonzert/"}</script>
-<!-- End Jekyll SEO tag -->
-<link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro:400,700" rel="stylesheet"><link rel="stylesheet" type="text/css" href="/mhl-abschlusskonzert/assets/main-dark.css"></head>
-<body>
-    <div class="container"><header>
-  <div class="menu">
-    <ul><li>
-          <a href="/mhl-abschlusskonzert/" aria-current="page">/konzertprogramm</a>
-        </li><li>
-          <a href="/mhl-abschlusskonzert/bio">/bio</a>
-        </li><li>
-          <a href="/mhl-abschlusskonzert/wo/">/wo</a>
-        </li><li>
-        <button class="lang-toggle" type="button">DE</button>
-      </li>
-    </ul>
-  </div>
-</header>
-<main>
-      <h1 id="ilia-viazov-abschlusskonzert"><strong>Ilia Viazov. Abschlusskonzert.</strong></h1>
+I"X�<h1 id="ilia-viazov-abschlusskonzert"><strong>Ilia Viazov. Abschlusskonzert.</strong></h1>
 
 <h2 id="sonicsnapshot-2026"><a href="https://youtu.be/IstGTBeUmUg">sonic.snapshot (2026)</a></h2>
 <div class="lang-en">
@@ -462,11 +413,7 @@ script-src 'self'; script-src 'self' 'unsafe-inline';" />
 
 <hr />
 
-<p><br /></p>
-
 <p><strong><em>Pause 10’-15’</em></strong></p>
-
-<p><br /></p>
 
 <hr />
 
@@ -754,12 +701,4 @@ script-src 'self'; script-src 'self' 'unsafe-inline';" />
 
   </details>
 </div>
-
-  <br />  <!-- add line break if there is any content -->
-    </main><footer>
-  
-</footer>
-<script src="/mhl-abschlusskonzert/assets/js/lang-toggle.js"></script>
-    </div>
-  </body>
-</html>
+:ET
